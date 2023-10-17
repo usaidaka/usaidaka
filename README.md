@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, React, Express, mysql, TailwindCSS, Chakra UI, and many more about fullstack dev things**
 
-- 📫 How to reach me **ujedkemal@gmail.com**
+- 📫 How to reach me **usaidaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
