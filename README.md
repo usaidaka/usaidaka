@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm usaid aka</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966]">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/7126894c136cfcea2ead9679838b0ca5b8bf50f64c0b76dc0e69e75d9fc57314/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f68656c6c6f2e676966]"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usaidaka&label=Profile%20views&color=0e75b6&style=flat" alt="usaidaka" /> </p>
 
